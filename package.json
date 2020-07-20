@@ -1,0 +1,15 @@
+{
+  "name": "pdf-viewer",
+  "version": "1.0.0",
+  "description": "pdf viewer with adobe sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maikel Navarro",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
